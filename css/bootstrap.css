@@ -1649,10 +1649,6 @@ mark {
     background-color: #fcf8e3
 }
 
-.adresse{
-    font-size: 20px;
-}
-
 .text-left {
     text-align: left
 }
@@ -1662,49 +1658,7 @@ mark {
 }
 
 .text-center {
-    text-align: center;
-}
-
-.text-center .textimage{
-    font-size: 22px;
-    color:#575757;
-    max-width: 60%;
-    display: block;
-    margin: 0 auto;
-    margin-top: 10px;
-    margin-bottom: 10px;
-}
-
-.textup{
-    font-size: 16px;
-}
-
-.text-center .textreal{
-    font-size: 22px;
-    color:#575757;
-    max-width: 45%;
-    display: block;
-    margin: 0 auto;
-    margin-top: 20px;
-    margin-bottom: 10px;
-}
-
-.text-center .texttemoin{
-    font-size: 20px;
-    font-style: italic;
-    color: #575757;
-    max-width: 80%;
-    display: block;
-    margin: 0 auto;
-    margin-top: 10px;
-}
-
-.text-center .authortemoin{
-    color:#575757;
-    max-width: 80%;
-    display: block;
-    margin: 0 auto;
-    margin-bottom: 10px;
+    text-align: center
 }
 
 .text-justify {
@@ -2094,7 +2048,6 @@ pre code {
 .col-sm-4,
 .col-sm-5,
 .col-sm-6,
-
 .col-sm-7,
 .col-sm-8,
 .col-sm-9,
